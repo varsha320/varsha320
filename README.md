@@ -35,9 +35,8 @@ My goal is to start my career as a Data Analyst and contribute to data-driven de
 
 ---
 
-## 🚀 Featured Projects
+##  Projects
 
-Coming Soon...
 
 - 🛒 E-Commerce Sales Dashboard
 - 🛍 Blinkit Sales Dashboard
