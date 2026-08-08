@@ -38,7 +38,11 @@ My goal is to start my career as a Data Analyst and contribute to data-driven de
 ##  Projects
 
 
-- 🛒 [E-Commerce Sales Dashboard](https://github.com/varsha320/E-Commerce-Sales-Dashboard)
+### 🛒 E-Commerce Sales Dashboard
+Power BI dashboard analyzing sales, profit, products, customers, and shipping performance.
+
+🔗 [View Project](https://github.com/varsha320/E-Commerce-Sales-Dashboard)
+
 - 🛍 Blinkit Sales Dashboard
 - 📈 Data Jobs Market Analysis
 
