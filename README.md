@@ -43,7 +43,10 @@ Power BI dashboard analyzing sales, profit, products, customers, and shipping pe
 
 🔗 [View Project](https://github.com/varsha320/E-Commerce-Sales-Dashboard)
 
-- 🛍 Blinkit Sales Dashboard
+### 🛍️ Blinkit Sales Dashboard
+Excel dashboard analyzing sales performance, products, outlet characteristics, and customer ratings.
+
+🔗 [View Project](https://github.com/varsha320/Blinkit-Sales-Dashboard)
 - 📈 Data Jobs Market Analysis
 
 ---
